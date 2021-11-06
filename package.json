@@ -1,6 +1,5 @@
 {
-  "private": true,
-  "name": "webhook-propagation1-1",
+  "name": "webhook-propagation",
   "version": "1.0.0",
   "description": "A template for kick starting a Cloudflare Workers project",
   "main": "index.js",
